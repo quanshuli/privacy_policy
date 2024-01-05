@@ -1,6 +1,6 @@
 ### Privacy Policy 
 
-Updated: 09-10-2023
+Updated: 05-Jan-2024
 
 ### The application: Tasuku
 
@@ -16,9 +16,13 @@ The application is standalone and we don't collect any data from your device.
 
 We only deploy the application through Google Play Store, please only install the app from Google Play Store.
 
-### Changes to this Privacy Policy
+### Acceptance of Terms
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We encourage you to review this Privacy Policy periodically.
+By using Tasuku, you acknowledge that you have read, understood, and agree to be bound by these terms of service. These terms may be updated from time to time, and it is your responsibility to review them periodically.
+
+### Termination of Services
+
+We reserve the right to suspend or terminate your access to Tasuku at our discretion, without notice, for any reason, including but not limited to a violation of these terms of service.
 
 ### Contact us
 
